@@ -1,0 +1,4 @@
+<resources>
+  <string name="app_name">Dot ViewPager Example</string>
+  <string name="add_fragment">Add Fragment</string>
+</resources>
