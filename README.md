@@ -49,4 +49,4 @@ public class MainActivity extends AppCompatActivity {
   ...
 }
 ```
-[1]: https://raw.github.com/jpenglert/DotViewPagerIndicator/tree/master/example/screenshot.png
+[1]: https://raw.githubusercontent.com/jpenglert/DotViewPagerIndicator/master/example/screenshot.png
